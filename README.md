@@ -91,17 +91,6 @@ Cette application web est conçue pour la gestion et le stockage des dossiers de
 
 ---
 
-## Identifiants par Défaut
-
-### Compte Admin :
-- **Login** : `admin`
-- **Mot de passe** : `admin_password_hash`
-
-### Compte Utilisateur :
-- **Login** : `johndoe`
-- **Mot de passe** : `user_password_hash`
-
----
 
 ## Structure du Projet
 ```
@@ -128,6 +117,9 @@ Cette application web est conçue pour la gestion et le stockage des dossiers de
 ### Page de Connexion
 ![Page de Connexion](screenshots/login.png)
 
+### Page de Register
+![Page de Connexion](screenshots/register.png)
+
 ### Gestion des Utilisateurs
 ![Gestion des Utilisateurs](screenshots/user_management.png)
 
@@ -138,7 +130,7 @@ Cette application web est conçue pour la gestion et le stockage des dossiers de
 
 ## Auteur
 Développé par **Oussama El FARIHI**. Pour toute question ou assistance, n'hésitez pas à me contacter :
-- **Email** : [oussamaelfarihi@gmail.com](mailto:imadhadi02@gmail.com)
+- **Email** : [oussamaelfarihi@gmail.com](mailto:oussamaelfarihi@gmail.com)
 - **Téléphone** : +212689572214
 
 ---
