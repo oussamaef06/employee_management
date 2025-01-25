@@ -137,9 +137,9 @@ Cette application web est conçue pour la gestion et le stockage des dossiers de
 ---
 
 ## Auteur
-Développé par **Imad Hadi**. Pour toute question ou assistance, n'hésitez pas à me contacter :
-- **Email** : [imadhadi02@gmail.com](mailto:imadhadi02@gmail.com)
-- **Téléphone** : 0625171880
+Développé par **Oussama El FARIHI**. Pour toute question ou assistance, n'hésitez pas à me contacter :
+- **Email** : [oussamaelfarihi@gmail.com](mailto:imadhadi02@gmail.com)
+- **Téléphone** : +212689572214
 
 ---
 
